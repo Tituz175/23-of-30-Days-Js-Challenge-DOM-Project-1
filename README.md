@@ -8,4 +8,4 @@ This DOM project generate numbers and marking evens, odds and prime numbers with
 
 ## Go Live
 
-<a href="https://tituz175.github.io/23-of-30-Days-Js-Challenge-DOM-Project-1/" target="blank">Click Me</a>
+<a href="https://tituz175.github.io/23-of-30-Days-Js-Challenge-DOM-Project-1/" target="_blank">Click Me</a>
